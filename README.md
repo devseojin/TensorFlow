@@ -1,6 +1,6 @@
 # TensorFlow
 
-## 1. [부스트코스] 텐서플로우로 시작하는 딥러닝 기초
+## 1. [부스트코스) 텐서플로우로 시작하는 딥러닝 기초](https://www.edwith.org/boostcourse-dl-tensorflow/joinLectures/25072)
 * Part1. Basic ML
 * Part2. DNN
   - 프로젝트A. [DNN] 패션 분류기 만들기(Fashion MNIST Classifier)
